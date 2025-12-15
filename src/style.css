@@ -1,0 +1,173 @@
+.nav-link {
+    font-weight: 500;
+    color: #000000;
+    padding: 0.5rem 1rem;
+    position: relative;
+}
+.btn-primary:hover{
+    background-color: orange;
+    border-color: orange;
+}
+  :not(.btn-check)+.btn:active
+ {
+    background-color: orange;
+    border-color: orange;
+    
+}
+
+
+.nav-link.active:after,
+.nav-link:hover{
+    color:orange;
+}
+.nav-link.active {
+    color:orange;
+}
+.nav-underline .nav-link.active, .nav-underline .show>.nav-link {
+    color: orange;
+}
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+}
+.navbar{
+    background-color: #edebeb;
+}
+.container {
+    margin:0%;
+    top: 100%;
+    left: 23%;
+    height: 100px;
+    display: block;
+    position: relative;
+    margin-left: -13px;
+    margin-top: -1px;
+  
+}
+
+.btn-outline-primary {
+    margin: 0px;
+    width:150px; color:black;
+    border-width: 0.23vb;
+    --bs-btn-border-color: orange;
+    --bs-btn-hover-bg: orange;
+    --bs-btn-hover-border-color: orange;
+    --bs-btn-active-bg: orange;
+    --bs-btn-active-border-color: orange;}
+.card-img-overlay {
+    position: absolute;
+    right: 0; 
+    bottom: 0;
+    left: 0; 
+    padding: var(--bs-card-img-overlay-padding);
+    border-radius: var(--bs-card-inner-border-radius);
+}
+.foto{
+    margin: 12px;
+    margin-top: 24px;
+    margin-bottom: 64px;
+    
+}
+.two-card{
+    top:auto;
+}
+.btn{
+    border-radius: 0;
+    font-size: larger;
+    font-weight: 630;
+}
+.btn-more{
+   width:200px;
+   margin-top: 20px;
+   margin-bottom: 40px;
+}
+.col-lg-7 {
+    width: 60.33333333%;
+}
+.tc::after{
+    content: "Я Лена Моллейн";
+    color: orange;
+}
+.text-bg-dark {
+    color: #fff !important;
+    background-color: RGBA(var(--bs-white-rgb), var(--bs-bg-opacity, 1)) !important;
+}
+.tw {
+    width: 40.33333333%;
+}
+.iw{
+    width: 20.33333333%;
+}
+.about::after{
+    content: "О нас";
+    opacity: .5;
+}
+.ulli{
+    line-height: 2;
+}
+.twidth {
+    width: 30.99999%;
+    font-size: 16px;
+
+}
+.iwidth {
+    width: 40.33333333%;
+    margin-top: 35px;
+}
+.r{
+     width: 62.33333333%;
+     align-self: center;
+     margin-bottom: 55px;
+}
+.contact::after{
+    content: "Контакты";
+    opacity: .5;
+}
+.icon{
+    border: solid #e5e4e4;
+border-width: 1.5px;
+}
+.mw{
+    width: 102.33333333%;
+}
+.textw {
+    width: 30.33333333%;
+}
+.btn-primary{
+    background-color: orange;
+    border-color: orange;
+
+}
+.desserts::after{
+    content: "Десерты";
+    opacity: .5;
+}
+.dinner::after{
+    content: "Ужин";
+    opacity: .5;
+}
+.recept::after{
+    content: "Рецепты";
+    opacity: .5;
+}
+.r1{
+     width: 62.33333333%;
+     margin-bottom: 55px;
+}
+.nav-link:focus, .nav-link:hover {
+    color: orange;
+}
+.nav-underline .nav-link:focus, .nav-underline .nav-link:hover {
+    border-bottom-color:orange;
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: orange;
+}
+.btn-primaryy{
+    border-radius: 25px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 100%;
+}
+

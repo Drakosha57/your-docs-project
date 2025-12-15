@@ -19,8 +19,8 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ваш-username/foodieloog.git
-cd foodieloog
+git clone https://github.com/ваш-username/your-docs-project.git
+cd your-docs-project
 
 # 2. Откройте главную страницу в браузере
 # На Windows:

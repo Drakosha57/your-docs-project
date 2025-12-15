@@ -3,7 +3,7 @@
 ```markdown
 # Руководство по внесению вклада
 
-Спасибо за интерес к проекту Foodieloog! Мы рады вашей помощи в создании лучшего кулинарного ресурса.
+Спасибо за интерес к проекту Foodeiblog! Мы рады вашей помощи в создании лучшего кулинарного ресурса.
 
 ## Как вы можете помочь
 
@@ -19,5 +19,5 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ваш-username/foodieloog.git
-cd foodieloog
+git clone https://github.com/ваш-username/your-docs-project.git
+cd your-docs-project
